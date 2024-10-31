@@ -5,7 +5,7 @@
 - おばあちゃんとジャンケンできます
 
 ## ③DEMO
-- ht
+- https://tofu05.github.io/kadai01_janken/
 
 ## ④作成アプリのIDまたはPW
 - ID/PASSなし
